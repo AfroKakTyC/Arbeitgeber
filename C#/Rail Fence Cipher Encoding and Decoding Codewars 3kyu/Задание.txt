@@ -14,4 +14,4 @@ Write a second function/method that takes 2 arguments, an encoded string and the
 
 For both encoding and decoding, assume number of rails >= 2 and that passing an empty string will return an empty string.
 
-Note that the example above excludes the punctuation and spaces just for simplicity. There are, however, tests that include punctuation. Don't filter out punctuation as they are a part of the string.
+Note that the example above excludes the punctuation and spaces just for simplicity. There are, however, tests that include punctuation. Don't filter out punctuation as they are a part of the strin
